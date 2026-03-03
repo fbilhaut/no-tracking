@@ -1,4 +1,4 @@
-# The No-Tracking Web Declaration  
+# The No-Tracking Web Declaration (draft)
 Version 0.1.0
 
 ---
@@ -135,8 +135,6 @@ Processing of strictly necessary session cookies and limited server logs may rel
 
 This document does not constitute legal advice. Each operator remains responsible for compliance with applicable laws in their jurisdiction.
 
----
-
 ## 6. What a Compliant Website Does Not Do
 
 A compliant website:
@@ -147,8 +145,6 @@ A compliant website:
 - does not use persistent identifiers,
 - does not perform hidden fingerprinting,
 - does not share user identifiers with third parties.
-
----
 
 ## 7. Transparency Requirements
 
