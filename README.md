@@ -6,11 +6,12 @@ Version 0.1.0
 ## Preamble (Non-Normative)
 
 Most modern websites display a “cookie banner” asking for consent.  
-These banners usually appear because the site uses technologies that track users across sessions or across different websites — for example for advertising, marketing, or behavioral analytics.
+
+These banners usually appear because the site uses technologies that track users across sessions or across different websites, for example for advertising, marketing, or behavioral analytics.
 
 However, not all cookies are the same.
 
-Originally, cookies were introduced simply to allow websites to function properly — for example to keep a user logged in or to remember temporary state during a visit. These are called *session cookies*, and they disappear when the browser is closed.
+Originally, cookies were introduced simply to allow websites to function properly, for example to keep a user logged in or to remember temporary state during a visit. These are called *session cookies*, and they disappear when the browser is closed.
 
 Over time, cookies and similar technologies began to be used for persistent identification and cross-site tracking. In response, legal frameworks such as the European Union’s ePrivacy Directive and the General Data Protection Regulation (GDPR) introduced rules requiring user consent for non-essential tracking.
 
@@ -20,7 +21,7 @@ This Declaration describes a different approach:
 - Avoid persistent identifiers.
 - Avoid tracking.
 - Avoid third-party tracking infrastructure.
-- Avoid consent banners by design — not by omission.
+- Avoid consent banners by design, not by omission.
 
 A website that complies with this Declaration uses only essential session cookies and minimal server logs for operational purposes. It does not track users across sessions or websites.
 
