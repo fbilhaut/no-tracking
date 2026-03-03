@@ -168,10 +168,7 @@ This Declaration follows semantic versioning:
 - Minor versions clarify or refine requirements.
 - Patch versions correct wording without altering requirements.
 
-
-## 9. Adoption
-
-## 9. Adoption and Public Domain Dedication
+## 9. Licence
 
 This Declaration is released under the Creative Commons Zero 1.0 Universal (CC0 1.0) Public Domain Dedication.
 
