@@ -5,13 +5,11 @@ Version 0.1.0
 
 ## Preamble (Non-Normative)
 
-Most modern websites display a “cookie banner” asking for consent.  
+Most modern websites display a “cookie banner” asking for consent. These banners usually appear because the site uses technologies that track users across sessions or across different websites, for example for advertising, marketing, or behavioral analytics.
 
-These banners usually appear because the site uses technologies that track users across sessions or across different websites, for example for advertising, marketing, or behavioral analytics.
+However, cookies can serve different purposes, and they do not all raise the same level of privacy concern.
 
-However, not all cookies are the same.
-
-Originally, cookies were introduced simply to allow websites to function properly, for example to keep a user logged in or to remember temporary state during a visit. These are called *session cookies*, and they disappear when the browser is closed.
+Originally, they were introduced simply to allow websites to function properly, for example to keep a user logged in or to remember temporary state during a visit. These are called *session cookies*. They exist only for the duration of a browsing session and are not intended to track users.
 
 Over time, cookies and similar technologies began to be used for persistent identification and cross-site tracking. In response, legal frameworks such as the European Union’s ePrivacy Directive and the General Data Protection Regulation (GDPR) introduced rules requiring user consent for non-essential tracking.
 
@@ -39,7 +37,7 @@ This Declaration defines a minimal web architecture in which:
 
 - no tracking technologies are used,
 - no persistent client identifiers are stored,
-- and no consent banner is required because no consent-triggering mechanisms are present.
+- and no consent banner is required and no consent-triggering mechanisms are present.
 
 It provides clear, technical criteria that websites may voluntarily adopt and reference.
 
